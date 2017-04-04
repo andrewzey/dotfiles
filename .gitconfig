@@ -1,0 +1,16 @@
+[user]
+	name = Andrew Zey
+	email = andrew@andrewzey.com
+[core]
+	editor = subl
+	autocrlf = false
+	safecrlf = false
+[color]
+  ui = true
+[alias]
+  st = status
+  ach = commit --amend -C HEAD
+  co = checkout
+  hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+[push]
+  default = simple
