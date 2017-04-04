@@ -12,4 +12,6 @@ pointing to dotfiles repo (eg. `~/repos/dotfiles/com.googlecode.iterm2.plist`)
 - `cp -R .zshrc ~/.zshrc`
 
 ## Sublime Text 3
-``` cp -R Sublime_Packages ~/Library/Application\ Support\Sublime\ Text\ 3/Packages```
+Per https://packagecontrol.io/docs/syncing:
+1. Install package control on machine
+2. `cp -R Sublime_Packages_User/* ~/Library/Application\ Support\Sublime\ Text\ 3/Packages/User/`
