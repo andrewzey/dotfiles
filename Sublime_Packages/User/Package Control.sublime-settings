@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Babel",
+		"BracketHighlighter",
+		"DashDoc",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Git",
+		"GitGutter",
+		"GitHub Flavored Markdown Preview",
+		"JsFormat",
+		"Mako",
+		"Markdown HTML Preview",
+		"Markdown Preview",
+		"Material Theme",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"PlainNotes",
+		"PlainTasks",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-php",
+		"SublimeLinter-pyflakes",
+		"SublimeLinter-pylint",
+		"SublimeREPL"
+	]
+}

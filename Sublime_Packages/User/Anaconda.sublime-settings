@@ -1,0 +1,5 @@
+{
+  "pep8": false,
+  "enable_signatures_tooltip": false,
+  "enable_docstrings_tooltip": false,
+}

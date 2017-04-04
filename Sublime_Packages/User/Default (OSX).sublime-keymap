@@ -1,0 +1,7 @@
+[
+  { "keys": ["super+alt+a"], "command": "alignment" },
+  { "keys": ["f8"], "command": "permute_lines", "args": {"operation": "unique"} },
+  { "keys": ["f9"], "command": "permute_lines", "args": {"operation": "reverse"} },
+  { "keys": ["ctrl+;"], "command": "show_at_center" },
+  { "keys": ["super+shift+e"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} }
+]
