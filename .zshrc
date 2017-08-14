@@ -16,3 +16,8 @@ alias subl="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
 alias rc="subl ~/.zshrc"
 alias repos="cd ~/repos"
 alias classicast="cd ~/repos/classicast"
+
+# Turn off auto-correct, because it's very annoying
+unsetopt correct
+unsetopt correctall
+DISABLE_CORRECTION="true"
